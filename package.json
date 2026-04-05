@@ -1,0 +1,36 @@
+{
+    "name": "nangabhaalu",
+    "version": "1.1.2",
+    "description": "⚡ ANUJ DUBEY CLI — PROMPT & LET AI THINK V1.1 — Interactive Terminal Experience",
+    "bin": {
+        "nangabhaalu": "src/cli.js"
+    },
+    "main": "src/cli.js",
+    "homepage": "https://github.com/AnujDubeyy/andu-cli",
+    "author": "Anuj Dubey",
+    "license": "MIT",
+    "keywords": [
+        "cli",
+        "portfolio",
+        "terminal",
+        "npx",
+        "interactive",
+        "anuj-dubey",
+        "andu",
+        "nangabhaalu"
+    ],
+    "scripts": {
+        "start": "node src/cli.js"
+    },
+    "type": "module",
+    "dependencies": {
+        "boxen": "^7.1.1",
+        "chalk": "^5.3.0",
+        "figlet": "^1.7.0",
+        "gradient-string": "^2.0.2",
+        "inquirer": "^9.2.12",
+        "nanospinner": "^1.1.0",
+        "open": "^10.1.0",
+        "ora": "^7.0.1"
+    }
+}
