@@ -16,6 +16,8 @@ npx retro-portfolio
 That's it. No install, no setup, no config.
 
 ## 🖥 What You Get
+<img width="1387" height="864" alt="Screenshot_20260405-215921 Termux" src="https://github.com/user-attachments/assets/1d6944e8-97e0-4810-8fba-564b26114643" />
+
 
 - **Boot animation** — scanline flicker + loading spinner
 - **ASCII art banner** — your name in massive gradient text
