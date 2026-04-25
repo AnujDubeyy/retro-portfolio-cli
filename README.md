@@ -3,11 +3,11 @@
 A **cyber-arcade style terminal portfolio** you can run instantly with `npx`.  
 Built with Node.js — retro neon aesthetics, smooth animations, and interactive navigation.
 
-![retro](https://img.shields.io/badge/aesthetic-retro-ff00ff?style=for-the-badge)
+
 ![node](https://img.shields.io/badge/node-%3E%3D18-00ffff?style=for-the-badge)
 ![license](https://img.shields.io/badge/license-MIT-39ff14?style=for-the-badge)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 npx retro-portfolio
@@ -15,7 +15,7 @@ npx retro-portfolio
 
 That's it. No install, no setup, no config.
 
-## 🖥 What You Get
+##  What You Get
 <img width="1387" height="864" alt="Screenshot_20260405-215921 Termux" src="https://github.com/user-attachments/assets/1d6944e8-97e0-4810-8fba-564b26114643" />
 
 
